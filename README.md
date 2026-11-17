@@ -1,246 +1,237 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBCFE8,45:F472B6,100:C084FC&height=210&section=header&text=Asmaa%20Badioui&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%9C%A6%20AI%20integrated%20with%20care&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Asmaa Badioui"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=700&height=60&lines=Asmaa+Badioui;Full-Stack+Developer+%2B+Integrated+AI" alt="Asmaa Badioui" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3200&pause=900&color=EC4899&center=true&vCenter=true&width=640&lines=Software+Engineering+%26+AI+student+%40+ENSA+Oujda+%F0%9F%8E%93;Spring+Boot+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+LLM+%26+RAG+%E2%9C%A8;Part-time+Full-Stack+Developer+%40+IBHAR+NETWORK+%F0%9F%92%BB;Looking+for+my+PFE+from+February+2027+%F0%9F%8C%B8" alt="Typing intro"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=A1A1AA&center=true&vCenter=true&width=650&lines=Software+Engineering+%26+AI+%40+ENSA+Oujda;Spring+Boot+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+LLM+%26+RAG;Seeking+a+PFE+internship+from+February+2027" alt="Subtitle" />
+<br/>
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/asmaa-badioui-74b96438b"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-F472B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:asmaa.badioui.ensao@ump.ac.ma"><img src="https://img.shields.io/badge/Email-Say_hello-C084FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=Badioui&label=Profile%20views&color=EC4899&style=for-the-badge" alt="Profile views"/>
 
-<a href="https://www.linkedin.com/in/asmaa-badioui-74b96438b"><img src="https://img.shields.io/badge/LinkedIn-Asmaa_Badioui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:asmaa.badioui.ensao@ump.ac.ma"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Badioui"><img src="https://img.shields.io/badge/GitHub-Badioui-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</div>
 
-<br/><br/>
+<br/>
+
+## 🌸 About me
 
 <table>
 <tr>
-<td align="center">
-🎓 <b>ENSA Oujda</b> — SE &amp; AI (2027) &nbsp;|&nbsp; 💻 <b>Part-time Full-Stack Developer @ IBHAR NETWORK</b> &nbsp;|&nbsp; 💼 <b>Seeking a PFE 2027</b>
+<td width="55%" valign="top">
+
+Hi, I'm **Asmaa** 👋 a final-year **Computer Engineering** student at **ENSA Oujda** (Software Engineering & AI, 2027).
+
+I build **full-stack web and mobile apps** and I love making AI **useful and reliable** inside real products: LLM calls checked in code, RAG retrieval, and a safe fallback when the model gets it wrong.
+
+- 💼 **Part-time Full-Stack Developer** at **IBHAR NETWORK** — my PFA internship turned into a paid role
+- 🤖 Building **RAG pipelines** and **LLM features** that ship to production
+- 🐳 Shipping with **Docker** and **GitHub Actions**
+- 🌷 **Open to a PFE internship** from **February 2027** (4–6 months)
+
+</td>
+<td width="45%" valign="top">
+
+```typescript
+const asmaa = {
+  role: "Full-Stack Developer",
+  focus: "Apps with integrated AI",
+  backend: ["Spring Boot", "FastAPI",
+            "Node.js", "Laravel"],
+  frontend: ["React", "React Native"],
+  ai: ["LLM APIs", "RAG", "Qdrant",
+       "LangGraph"],
+  motto: "AI output is verified in code",
+  lookingFor: "PFE · Feb 2027 ✨"
+};
+```
+
 </td>
 </tr>
 </table>
 
-</div>
-
----
-
-## 👩‍💻 About me
-
-```typescript
-const asmaa = {
-  code: ["Java", "TypeScript", "Python", "PHP", "SQL"],
-  backend: ["Spring Boot", "FastAPI", "Node.js / Express", "Laravel"],
-  ai: ["LLM APIs", "RAG", "Embeddings", "Qdrant"],
-  current: "Part-time Full-Stack Developer @ IBHAR NETWORK",
-  principle: "AI output is checked in code, with a deterministic fallback",
-  status: "Seeking a PFE 2027 in software development with integrated AI"
-};
-```
-
-I'm a final-year Computer Engineering student at **ENSA Oujda**. I build full-stack web and mobile applications and integrate AI into them **reliably**: LLM calls validated in code, RAG retrieval, and a deterministic fallback when the model's output is unusable. I ship with Docker and GitHub Actions CI.
-
-My PFA internship at **IBHAR NETWORK** turned into a **paid part-time role**: I keep building client products there alongside my final year.
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FBCFE8,50:F9A8D4,100:DDD6FE&height=3&section=header" width="100%" alt=""/>
 
 ## 💼 Experience
 
 <table>
-<thead>
 <tr>
-<th width="30%">Company &amp; period</th>
-<th width="70%">Role &amp; impact</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-<b>IBHAR NETWORK</b><br/>
+<td width="28%" align="center" valign="top">
+<br/>
+<b>🏢 IBHAR NETWORK</b><br/>
 <sub>Jun 2026 – present</sub><br/><br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white" alt="Qdrant"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Part--time-F472B6?style=flat-square" alt="Part-time"/>
+<img src="https://img.shields.io/badge/ex--PFA_intern-C084FC?style=flat-square" alt="Ex PFA intern"/>
 </td>
-<td>
-<b>Full-Stack Developer — part-time</b> <sub>(since Aug 2026)</sub><br/>
-<sub>Previously PFA intern (Jun – Aug 2026); the internship turned into a paid role.</sub><br/>
-• <b>TripTag (AI trip planner):</b> finished the RAG pipeline of a FastAPI service — SigLIP embeddings, Qdrant retrieval, availability re-checked in MariaDB.<br/>
-• LLM output verified in code (prices, durations, IDs) with a deterministic fallback; fixed a CDC sync bug between the worker and Qdrant.<br/>
-• Docker image cut from <b>526 MB to 174 MB</b>; CI with GitHub Actions.<br/>
-• <b>Jisrouk (school–teacher platform):</b> shipped <b>5 modules</b> end to end, fixed an authentication flaw and an open redirect, initial JS bundle <b>−40%</b>.
-</td>
-</tr>
-<tr>
-<td>
-<b>Pachalik de Saïdia</b><br/>
-<sub>Jul 2025 · Internship</sub><br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-</td>
-<td>
-<b>Digital Transformation Intern</b><br/>
-• Audited a complaint-handling workflow, then delivered a web tool and Python scripts.<br/>
-• Power BI dashboards: processing time reduced by <b>60%</b>; wrote the procedures and trained the staff.
-</td>
-</tr>
-</tbody>
-</table>
-
----
-
-## 🚀 Featured projects
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### 💊 PharmaAI
-*Monitored REST API (12+ endpoints) with an integrated OpenAI assistant. Mean incident response time −40%.*
-
-`Express` `PostgreSQL` `OpenAI` `Prometheus` `Grafana`
-
-🔗 [Repository](https://github.com/Badioui/pharmaai)
-
-</td>
-<td width="33%" valign="top">
-
-### 🌾 FELAHA Agent
-*AI agent for farmers, orchestrated with a LangGraph pipeline.*
-
-`Python` `LangGraph` `LLM`
-
-🔗 [Repository](https://github.com/Badioui/felaha-agent)
-
-</td>
-<td width="33%" valign="top">
-
-### 🏙️ SafeCity
-*Android mobile app (Java) with a Firebase backend and Cloud Functions.*
-
-`Java` `Android` `Firebase` `Cloud Functions`
-
-🔗 [Repository](https://github.com/Badioui/SafeCity)
-
+<td width="72%" valign="top">
+<b>Full-Stack Developer</b> <sub>· part-time since Aug 2026 · PFA intern Jun – Aug 2026</sub>
+<br/><br/>
+✈️ <b>TripTag — AI trip planner</b><br/>
+• Finished the <b>RAG pipeline</b> of a FastAPI service: SigLIP embeddings → Qdrant retrieval → availability re-checked in MariaDB<br/>
+• LLM output <b>verified in code</b> (prices, durations, IDs) with a deterministic fallback; fixed a CDC sync bug between the worker and Qdrant<br/>
+• Docker image <b>526 MB → 174 MB</b> · CI with GitHub Actions
+<br/><br/>
+🏫 <b>Jisrouk — school–teacher platform</b><br/>
+• Shipped <b>5 modules</b> end to end · fixed an authentication flaw and an open redirect · initial JS bundle <b>−40%</b>
+<br/><br/>
+<code>FastAPI</code> <code>Qdrant</code> <code>MariaDB</code> <code>React</code> <code>React Native</code> <code>Express</code> <code>PostgreSQL</code> <code>Docker</code>
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
-
-### 💉 VaccinKids
-*Health-centre platform: REST API, role-based access, OTP, real-time queue, vial stock computed in code, PDF/Excel reports.*
-
-`Node.js` `PostgreSQL` `Jest` `Docker` `GitHub Actions`
-
-🔗 [Repository](https://github.com/hajarhcm9/vaccinkids)
-
+<td align="center" valign="top">
+<br/>
+<b>🏛️ Pachalik de Saïdia</b><br/>
+<sub>Jul 2025</sub><br/><br/>
+<img src="https://img.shields.io/badge/Internship-F9A8D4?style=flat-square" alt="Internship"/>
 </td>
-<td width="33%" valign="top">
-
-### ⌚ Anti-epilepsy bracelet
-*Team IoT prototype: a connected bracelet with an ML model and a mobile app.*
-
-`ESP32` `C/C++` `TensorFlow/Keras` `React Native`
-
-🎓 *ENSAO team project*
-
-</td>
-<td width="33%" valign="top">
-
-### 🏥 MaPharmacie
-*Pharmacy management web app.*
-
-`PHP` `MySQL`
-
-🔗 [Repository](https://github.com/Badioui/MaPharmacie)
-
+<td valign="top">
+<b>Digital Transformation Intern</b>
+<br/><br/>
+• Audited a complaint-handling workflow, then delivered a web tool and Python scripts<br/>
+• Power BI dashboards: processing time <b>−60%</b> · wrote the procedures and trained the staff
+<br/><br/>
+<code>Python</code> <code>Power BI</code> <code>Web</code>
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FBCFE8,50:F9A8D4,100:DDD6FE&height=3&section=header" width="100%" alt=""/>
 
-## 🛠️ Tech stack
+## 🎀 Featured projects
 
-<table width="100%">
+<table>
 <tr>
-<td width="20%"><b>Backend</b></td>
-<td>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<td width="33%" valign="top" align="center">
+<h3>💊 PharmaAI</h3>
+<sub>Monitored REST API (12+ endpoints) with an integrated OpenAI assistant · incident response time <b>−40%</b></sub>
+<br/><br/>
+<code>Express</code> <code>PostgreSQL</code> <code>OpenAI</code> <code>Grafana</code>
+<br/><br/>
+<a href="https://github.com/Badioui/pharmaai"><img src="https://img.shields.io/badge/View_repo-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="PharmaAI repo"/></a>
+</td>
+<td width="33%" valign="top" align="center">
+<h3>🌾 FELAHA Agent</h3>
+<sub>AI agent for farmers, orchestrated with a LangGraph pipeline</sub>
+<br/><br/>
+<code>Python</code> <code>LangGraph</code> <code>LLM</code>
+<br/><br/>
+<a href="https://github.com/Badioui/felaha-agent"><img src="https://img.shields.io/badge/View_repo-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="FELAHA repo"/></a>
+</td>
+<td width="33%" valign="top" align="center">
+<h3>🏙️ SafeCity</h3>
+<sub>Android mobile app (Java) with a Firebase backend and Cloud Functions</sub>
+<br/><br/>
+<code>Java</code> <code>Android</code> <code>Firebase</code>
+<br/><br/>
+<a href="https://github.com/Badioui/SafeCity"><img src="https://img.shields.io/badge/View_repo-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="SafeCity repo"/></a>
 </td>
 </tr>
 <tr>
-<td><b>Frontend &amp; mobile</b></td>
-<td>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+<td width="33%" valign="top" align="center">
+<h3>💉 VaccinKids</h3>
+<sub>Health-centre platform: REST API, roles, OTP, real-time queue, PDF/Excel reports</sub>
+<br/><br/>
+<code>Node.js</code> <code>PostgreSQL</code> <code>Jest</code> <code>CI</code>
+<br/><br/>
+<a href="https://github.com/hajarhcm9/vaccinkids"><img src="https://img.shields.io/badge/View_repo-C084FC?style=for-the-badge&logo=github&logoColor=white" alt="VaccinKids repo"/></a>
 </td>
-</tr>
-<tr>
-<td><b>Integrated AI</b></td>
-<td>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/RAG-10B981?style=for-the-badge&logoColor=white" alt="RAG"/>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white" alt="Qdrant"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<td width="33%" valign="top" align="center">
+<h3>⌚ Anti-epilepsy bracelet</h3>
+<sub>Team IoT prototype: connected bracelet with an ML model and a mobile app</sub>
+<br/><br/>
+<code>ESP32</code> <code>TensorFlow</code> <code>React Native</code>
+<br/><br/>
+<img src="https://img.shields.io/badge/ENSAO_team_project-C084FC?style=for-the-badge" alt="Team project"/>
 </td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</td>
-</tr>
-<tr>
-<td><b>DevOps &amp; quality</b></td>
-<td>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+<td width="33%" valign="top" align="center">
+<h3>🏥 MaPharmacie</h3>
+<sub>Pharmacy management web app</sub>
+<br/><br/>
+<code>PHP</code> <code>MySQL</code>
+<br/><br/>
+<a href="https://github.com/Badioui/MaPharmacie"><img src="https://img.shields.io/badge/View_repo-C084FC?style=for-the-badge&logo=github&logoColor=white" alt="MaPharmacie repo"/></a>
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FBCFE8,50:F9A8D4,100:DDD6FE&height=3&section=header" width="100%" alt=""/>
 
-## 🎓 Education &amp; languages
-
-- **Engineering degree in Computer Engineering** — ENSA Oujda, Software Engineering &amp; AI *(2022 – 2027)*
-- **Baccalauréat in Physical Sciences** — Lycée Saïdia *(2022)* · **Mention: Très Bien**
-
-💬 **Languages:** Arabic (native) &nbsp;|&nbsp; English (C1) &nbsp;|&nbsp; French (B2)
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Badioui&theme=tokyonight" alt="Profile summary" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Badioui&theme=tokyonight" alt="Most used languages" height="180"/>
-</div>
-
----
+## 🛠️ My toolbox
 
 <div align="center">
 
-### 🤝 Let's connect
+<b>Backend & frontend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,express,php,laravel,ts,react,androidstudio&perline=11" alt="Backend and frontend"/>
 
-I'm looking for a **PFE internship starting February 2027** (4–6 months) in **software development with integrated AI**.
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/asmaa-badioui-74b96438b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;
-<a href="mailto:asmaa.badioui.ensao@ump.ac.ma"><img src="https://img.shields.io/badge/Email-Send_a_message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<b>Data & delivery</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,githubactions,git,linux,jest,tensorflow&perline=11" alt="Data and delivery"/>
+
+<br/><br/>
+
+<b>AI integrated in apps</b><br/><br/>
+<img src="https://img.shields.io/badge/OpenAI_API-F472B6?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+<img src="https://img.shields.io/badge/Claude_·_Groq-EC4899?style=for-the-badge&logoColor=white" alt="Claude and Groq"/>
+<img src="https://img.shields.io/badge/RAG-DB2777?style=for-the-badge&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/Qdrant-C084FC?style=for-the-badge&logoColor=white" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/LangGraph-A855F7?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Embeddings_(SigLIP)-9333EA?style=for-the-badge&logoColor=white" alt="Embeddings"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FBCFE8,50:F9A8D4,100:DDD6FE&height=3&section=header" width="100%" alt=""/>
+
+## 🎓 Education & languages
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+🎓 **Engineering degree — Computer Engineering**<br/>
+<sub>ENSA Oujda · Software Engineering & AI · 2022 – 2027</sub>
+
+📚 **Baccalauréat — Physical Sciences**<br/>
+<sub>Lycée Saïdia · 2022 · Mention Très Bien</sub>
+
+</td>
+<td width="40%" valign="top">
+
+🌍 **Languages**
+
+🇲🇦 Arabic — native<br/>
+🇬🇧 English — C1<br/>
+🇫🇷 French — B2
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FBCFE8,50:F9A8D4,100:DDD6FE&height=3&section=header" width="100%" alt=""/>
+
+## 📊 GitHub activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Badioui&show_icons=true&hide_border=true&bg_color=00000000&title_color=EC4899&icon_color=C084FC&text_color=9CA3AF&ring_color=F472B6&include_all_commits=true&count_private=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badioui&layout=compact&hide_border=true&bg_color=00000000&title_color=EC4899&text_color=9CA3AF&langs_count=6" height="165" alt="Top languages"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=Badioui&hide_border=true&background=00000000&ring=F472B6&fire=EC4899&currStreakLabel=EC4899&sideLabels=C084FC&currStreakNum=9CA3AF&sideNums=9CA3AF&dates=9CA3AF&stroke=F9A8D4" height="165" alt="Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🤝 Let's build something lovely together
+
+I'm looking for a **PFE internship starting February 2027** in **software development with integrated AI**.<br/>
+If your team builds products with AI inside, I'd love to talk 💌
+
+<a href="https://www.linkedin.com/in/asmaa-badioui-74b96438b"><img src="https://img.shields.io/badge/LinkedIn-Connect-F472B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:asmaa.badioui.ensao@ump.ac.ma"><img src="https://img.shields.io/badge/Email-Send_a_message-C084FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<sub>✨ <i>Building reliable software, one thoughtful commit at a time.</i> ✨</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,55:F472B6,100:FBCFE8&height=120&section=footer" width="100%" alt=""/>
