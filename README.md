@@ -110,15 +110,15 @@ My PFA internship at **IBHAR NETWORK** turned into a **paid part-time role**: I 
 
 `Python` `LangGraph` `LLM`
 
-🔗 [Repository](https://github.com/Badioui/FELAHA-Agent-v4-UI-UX-Fixed-2)
+🔗 [Repository](https://github.com/Badioui/felaha-agent)
 
 </td>
 <td width="33%" valign="top">
 
 ### 🏙️ SafeCity
-*Android app backed by Firebase and Cloud Functions.*
+*Android mobile app (Java) with a Firebase backend and Cloud Functions.*
 
-`Android` `Firebase` `Cloud Functions`
+`Java` `Android` `Firebase` `Cloud Functions`
 
 🔗 [Repository](https://github.com/Badioui/SafeCity)
 
