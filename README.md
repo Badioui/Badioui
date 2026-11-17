@@ -6,6 +6,7 @@
 
 <br/>
 
+<a href="https://asmaa-badioui.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-asmaa--badioui.vercel.app-EC4899?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/asmaa-badioui-74b96438b"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-F472B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:asmaa.badioui.ensao@ump.ac.ma"><img src="https://img.shields.io/badge/Email-Say_hello-C084FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=Badioui&label=Profile%20views&color=EC4899&style=for-the-badge" alt="Profile views"/>
@@ -227,6 +228,7 @@ const asmaa = {
 I'm looking for a **PFE internship starting February 2027** in **software development with integrated AI**.<br/>
 If your team builds products with AI inside, I'd love to talk 💌
 
+<a href="https://asmaa-badioui.vercel.app/"><img src="https://img.shields.io/badge/Visit_my_portfolio-EC4899?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/asmaa-badioui-74b96438b"><img src="https://img.shields.io/badge/LinkedIn-Connect-F472B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:asmaa.badioui.ensao@ump.ac.ma"><img src="https://img.shields.io/badge/Email-Send_a_message-C084FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
