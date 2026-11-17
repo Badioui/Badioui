@@ -212,7 +212,7 @@ const asmaa = {
 ## 📊 GitHub activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Badioui&show_icons=true&hide_border=true&bg_color=00000000&title_color=EC4899&icon_color=C084FC&text_color=9CA3AF&ring_color=F472B6&include_all_commits=true&count_private=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Badioui&show_icons=true&hide_rank=true&hide=stars,issues&hide_border=true&bg_color=00000000&title_color=EC4899&icon_color=C084FC&text_color=9CA3AF&ring_color=F472B6&include_all_commits=true&count_private=true" height="165" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badioui&layout=compact&hide_border=true&bg_color=00000000&title_color=EC4899&text_color=9CA3AF&langs_count=6" height="165" alt="Top languages"/>
 <br/>
 <img src="https://streak-stats.demolab.com?user=Badioui&hide_border=true&background=00000000&ring=F472B6&fire=EC4899&currStreakLabel=EC4899&sideLabels=C084FC&currStreakNum=9CA3AF&sideNums=9CA3AF&dates=9CA3AF&stroke=F9A8D4" height="165" alt="Streak"/>
