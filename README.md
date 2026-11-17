@@ -15,7 +15,7 @@
 <table>
 <tr>
 <td align="center">
-🎓 <b>ENSA Oujda</b> — Software Engineering &amp; AI (degree 2027) &nbsp;|&nbsp; 🚀 <b>2 internships</b> &nbsp;|&nbsp; 💼 <b>Seeking a PFE 2027 (from Feb 2027)</b>
+🎓 <b>ENSA Oujda</b> — SE &amp; AI (2027) &nbsp;|&nbsp; 💻 <b>Part-time Full-Stack Developer @ IBHAR NETWORK</b> &nbsp;|&nbsp; 💼 <b>Seeking a PFE 2027</b>
 </td>
 </tr>
 </table>
@@ -31,12 +31,15 @@ const asmaa = {
   code: ["Java", "TypeScript", "Python", "PHP", "SQL"],
   backend: ["Spring Boot", "FastAPI", "Node.js / Express", "Laravel"],
   ai: ["LLM APIs", "RAG", "Embeddings", "Qdrant"],
+  current: "Part-time Full-Stack Developer @ IBHAR NETWORK",
   principle: "AI output is checked in code, with a deterministic fallback",
   status: "Seeking a PFE 2027 in software development with integrated AI"
 };
 ```
 
 I'm a final-year Computer Engineering student at **ENSA Oujda**. I build full-stack web and mobile applications and integrate AI into them **reliably**: LLM calls validated in code, RAG retrieval, and a deterministic fallback when the model's output is unusable. I ship with Docker and GitHub Actions CI.
+
+My PFA internship at **IBHAR NETWORK** turned into a **paid part-time role**: I keep building client products there alongside my final year.
 
 ---
 
@@ -53,14 +56,15 @@ I'm a final-year Computer Engineering student at **ENSA Oujda**. I build full-st
 <tr>
 <td>
 <b>IBHAR NETWORK</b><br/>
-<sub>Jun – Aug 2026 · PFA internship</sub><br/><br/>
+<sub>Jun 2026 – present</sub><br/><br/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white" alt="Qdrant"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </td>
 <td>
-<b>Full-Stack Developer Intern</b><br/>
+<b>Full-Stack Developer — part-time</b> <sub>(since Aug 2026)</sub><br/>
+<sub>Previously PFA intern (Jun – Aug 2026); the internship turned into a paid role.</sub><br/>
 • <b>TripTag (AI trip planner):</b> finished the RAG pipeline of a FastAPI service — SigLIP embeddings, Qdrant retrieval, availability re-checked in MariaDB.<br/>
 • LLM output verified in code (prices, durations, IDs) with a deterministic fallback; fixed a CDC sync bug between the worker and Qdrant.<br/>
 • Docker image cut from <b>526 MB to 174 MB</b>; CI with GitHub Actions.<br/>
@@ -117,6 +121,38 @@ I'm a final-year Computer Engineering student at **ENSA Oujda**. I build full-st
 `Android` `Firebase` `Cloud Functions`
 
 🔗 [Repository](https://github.com/Badioui/SafeCity)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 💉 VaccinKids
+*Health-centre platform: REST API, role-based access, OTP, real-time queue, vial stock computed in code, PDF/Excel reports.*
+
+`Node.js` `PostgreSQL` `Jest` `Docker` `GitHub Actions`
+
+🔗 [Repository](https://github.com/hajarhcm9/vaccinkids)
+
+</td>
+<td width="33%" valign="top">
+
+### ⌚ Anti-epilepsy bracelet
+*Team IoT prototype: a connected bracelet with an ML model and a mobile app.*
+
+`ESP32` `C/C++` `TensorFlow/Keras` `React Native`
+
+🎓 *ENSAO team project*
+
+</td>
+<td width="33%" valign="top">
+
+### 🏥 MaPharmacie
+*Pharmacy management web app.*
+
+`PHP` `MySQL`
+
+🔗 [Repository](https://github.com/Badioui/MaPharmacie)
 
 </td>
 </tr>
@@ -201,7 +237,7 @@ I'm a final-year Computer Engineering student at **ENSA Oujda**. I build full-st
 
 ### 🤝 Let's connect
 
-I'm looking for a **PFE internship starting February 2027** in **software development with integrated AI**.
+I'm looking for a **PFE internship starting February 2027** (4–6 months) in **software development with integrated AI**.
 
 <a href="https://www.linkedin.com/in/asmaa-badioui-74b96438b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
